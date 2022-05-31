@@ -1,4 +1,4 @@
-# KANG SIN WON
+# KANG SHIN WON
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnfansl788)](https://solved.ac/wnfansl788)
 -->
